@@ -14,6 +14,6 @@ pip3 install opencv-python
 
 Save the bitify.py file, cd into the directory it is saved.
 The script can be run with scraper.py arg1 where
-- arg1 is the name of the folder containing the image files to be converted
+- arg1 is the name/path of the folder containing the image files to be converted
 
 A folder "Output" will be created in the directory of the script containing the converted images.
